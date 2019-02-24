@@ -1,0 +1,1 @@
+[{"nombre":"libro1","editorial":"editorial1","autor":"autor1","edicion":3,"id":1},{"nombre":"libro2","editorial":"editorial2","autor":"autor2","edicion":6,"id":2},{"nombre":"libro3","editorial":"editorial3","autor":"autor3","edicion":6,"id":3},{"newBook":{"nombre":"Ulises","editorial":"Cantaro","autor":"Joyce","edicion":"primera"},"id":4}]
